@@ -1,5 +1,5 @@
 /**
- * Created by mac on 12.11.17.
+ * Created by mac
  */
 public class JavaClass2{
     protected double a, b;
